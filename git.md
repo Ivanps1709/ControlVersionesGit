@@ -1,5 +1,9 @@
 # 🔄 Sistemas de Control de Versiones
 
+<p align="center">
+  <img src="/img/sistema.png" alt="![sistema](/img/sistema.png)" />
+</p>
+
 ¿Qué es el Control de Versiones?
 
 El control de versiones es como una máquina del tiempo para tus archivos. 🕰️
