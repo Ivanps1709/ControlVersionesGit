@@ -15,4 +15,4 @@
   <img src="/img/2.jpg" alt="![host](/img/2.jpg)" />
 </p>
 (Imagen gereada por IA)  
-[Grok](https://grok.com)
+Enlace de la IA --> https://grok.com
