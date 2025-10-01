@@ -8,3 +8,5 @@
 - [Página oficial de GitHub](https://github.com/)  
 - [Documentación oficial de GitHub](https://docs.github.com/es)  
 - [Soporte GitHub](https://support.github.com/)  
+
+[7. Autores](autores.md)
