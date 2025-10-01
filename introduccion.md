@@ -14,7 +14,7 @@ En el desarrollo de software moderno, la documentación y el control de cambios 
 
 Este caos es exactamente lo que las herramientas de control de versiones vienen a resolver.
 
-**🎯 Objetivos de este documento**
+## **🎯 Objetivos de este documento**
 
 En este trabajo aprenderás sobre:
 
