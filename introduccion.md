@@ -1,4 +1,6 @@
-# INTRODUCCIÓN 👋
+<p align="center">
+  <img src="/img/introduccion.png" alt="![introduccion](/img/introduccion.png)" />
+</p>
 
 ¿Por qué necesitamos herramientas de documentación técnica?
 
