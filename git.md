@@ -169,4 +169,4 @@ El control de versiones ha evolucionado desde simples bases de datos locales has
 
 Git se ha convertido en el estándar de la industria, y dominar sus conceptos básicos es fundamental para cualquier profesional del desarrollo moderno.
 
-[3.Lenguajes de Marcas](markdown.md)
+[3.Lenguaje de marcas: Markdown](markdown.md)
