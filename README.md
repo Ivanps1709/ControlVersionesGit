@@ -32,5 +32,6 @@ Contenido aquí...
 - Fuente 2  
 
 ## Autores
-- Nombre del autor  
-- Nombre del autor  
+Iván Palma Sierra
+Sandra Bizcocho Cordero
+Álvaro Moreno Domínguez
