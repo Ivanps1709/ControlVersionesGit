@@ -21,7 +21,7 @@
 ![repositorio](/img/GIT2.png)
 
 
-![holaaa](/img/GIT4.jpg)
+![holaaa](/img/GIT4.png)
 
 
 
