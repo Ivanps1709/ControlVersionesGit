@@ -9,3 +9,8 @@
 6. [Conceptos básicos Git/GitHub](#conceptos-básicos-gitgithub)  
 7. [Referencias](referencias.md)  
 8. [Autores](#autores)  
+
+
+<p align="center">
+  <img src="/img/github.jpg" alt="![host](/img/github.jpg)" />
+</p>
