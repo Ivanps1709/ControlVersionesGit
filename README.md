@@ -32,6 +32,6 @@ Contenido aquí...
 - Fuente 2  
 
 ## Autores
-Iván Palma Sierra
-Sandra Bizcocho Cordero
-Álvaro Moreno Domínguez
+-- Iván Palma Sierra
+-- Sandra Bizcocho Cordero
+-- Álvaro Moreno Domínguez
