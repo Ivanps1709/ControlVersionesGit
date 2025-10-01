@@ -10,26 +10,7 @@
 6. [Referencias](#referencias)  
 7. [Autores](#autores)  
 
----
-
-## Introducción
-Contenido aquí...
-
-## Sistemas de control de versiones: Git
-Contenido aquí...
-
-## Lenguaje de marcas: Markdown
-Contenido aquí...
-
-## Repositorio: GitHub
-Contenido aquí...
-
-## Conceptos básicos Git/GitHub
-Contenido aquí...
-
-## Referencias
-- Fuente 1  
-- Fuente 2  
+--- 
 
 ## Autores
 - Iván Palma Sierra
