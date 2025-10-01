@@ -16,14 +16,14 @@ Este caos es exactamente lo que las herramientas de control de versiones vienen 
 
 En este trabajo aprenderás sobre:
 
-|🔧 Git: El sistema de control de versiones más popular del mundo  
-|📝 Markdown: El lenguaje para crear documentación clara y bonita  
-|🌐 GitHub: La plataforma que une desarrollo y colaboración  
+* 🔧 Git: El sistema de control de versiones más popular del mundo  
+* 📝 Markdown: El lenguaje para crear documentación clara y bonita  
+* 🌐 GitHub: La plataforma que une desarrollo y colaboración  
 
 **💡 ¿Para quién es esto?**
 Este contenido es esencial para:
 
-|✨ Desarrolladores que quieren trabajar en equipo  
-|📊 Profesionales que necesitan organizar proyectos  
-|🎓 Estudiantes que comienzan en el mundo de la programación  
-|🚀 Cualquiera que quiera llevar control de sus cambios
+* ✨ Desarrolladores que quieren trabajar en equipo  
+* 📊 Profesionales que necesitan organizar proyectos  
+* 🎓 Estudiantes que comienzan en el mundo de la programación  
+* 🚀 Cualquiera que quiera llevar control de sus cambios
