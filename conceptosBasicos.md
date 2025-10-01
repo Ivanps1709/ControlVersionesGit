@@ -15,4 +15,7 @@
 
 ![GIFT](/img/GIT3.gif)
 
+![Texto alternativo](/img/GIT.png)
+
+
 
