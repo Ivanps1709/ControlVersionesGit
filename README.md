@@ -8,7 +8,7 @@
 4. [Repositorio: GitHub](github.md)  
 6. [Conceptos básicos Git/GitHub](conceptos.md)  
 7. [Referencias](referencias.md)  
-8. [Autores](#autores)  
+8. [Autores](autores.md)  
 
 ---
 <p align="center">
