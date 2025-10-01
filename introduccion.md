@@ -30,4 +30,4 @@ Este contenido es esencial para:
 * 🎓 Estudiantes que comienzan en el mundo de la programación  
 * 🚀 Cualquiera que quiera llevar control de sus cambios
 
-[2.Git.md](git.md)
+[2.Sistemas de control de versiones: Git](git.md)
