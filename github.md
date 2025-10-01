@@ -6,3 +6,7 @@ Fue adquirida por Microsoft en 2018 y combina:
 - Control de versiones con **Git**.  
 - Funcionalidades de **red social** para programadores.  
 - Colaboración mediante *pull requests*, *issues*, *wikis* y más.  
+
+<p align="center">
+  <img src="/img/3,jpg" alt="![host](/img/3.jpg)" />
+</p>
