@@ -9,10 +9,3 @@
 5. [Conceptos básicos Git/GitHub](#conceptos-básicos-gitgithub)  
 6. [Referencias](#referencias)  
 7. [Autores](#autores)  
-
---- 
-
-## Autores
-- Iván Palma Sierra
-- Sandra Bizcocho Cordero
-- Álvaro Moreno Domínguez
