@@ -2,13 +2,13 @@
   <img src="/img/introduccion.png" alt="![introduccion](/img/introduccion.png)" />
 </p>
 
-¿Por qué necesitamos herramientas de documentación técnica?
+## ¿Por qué necesitamos herramientas de documentación técnica?
 
 En el desarrollo de software moderno, la documentación y el control de cambios son tan importantes como el código mismo. Imagina trabajar en un proyecto con varios compañeros y que cada uno guarde sus cambios en carpetas como:  
-`proyecto_final.zip`  
-`proyecto_final_DEFINITIVO.zip`  
-`proyecto_final_DEFINITIVO_AHORA_SI.zip`  
-`proyecto_final_DEFINITIVO_AHORA_SI_v2.zip`
+    `proyecto_final.zip`  
+    `proyecto_final_DEFINITIVO.zip`  
+    `proyecto_final_DEFINITIVO_AHORA_SI.zip`  
+    `proyecto_final_DEFINITIVO_AHORA_SI_v2.zip`
 
 ¿Te suena familiar? 😅 
 
