@@ -16,5 +16,6 @@ Su objetivo es facilitar la escritura de texto plano con formato que pueda conve
 
 
 <p align="center">
-  <img src="/img/markdown.jpg" alt="![host](/img/markdown.jpg)" />
+  <img src="/img/markdown.jpg" alt="![host](/img/markdown.jpg)"  width="400"
+height="250"/>
 </p>
