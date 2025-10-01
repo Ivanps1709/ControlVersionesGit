@@ -8,6 +8,6 @@ Fue adquirida por Microsoft en 2018 y combina:
 - Colaboración mediante *pull requests*, *issues*, *wikis* y más.  
 
 <p align="center">
-  <img src="/img/3.jpg" alt="![host](/img/3.jpg)" width="650"
+  <img src="/img/3.jpg" alt="![host](/img/3.jpg)" width="8500"
 height="450"/>
 </p>
