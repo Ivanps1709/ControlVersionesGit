@@ -9,5 +9,5 @@ Fue adquirida por Microsoft en 2018 y combina:
 
 <p align="center">
   <img src="/img/3.jpg" alt="![host](/img/3.jpg)" width="850"
-height="450"/>
+height="600"/>
 </p>
