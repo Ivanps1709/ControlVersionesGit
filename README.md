@@ -12,5 +12,5 @@
 
 ---
 <p align="center">
-  <img src="/img/github.jpg" alt="![host](/img/github.jpg)" />
+  <img src="/img/2.jpg" alt="![host](/img/2.jpg)" />
 </p>
