@@ -12,4 +12,4 @@ Fue adquirida por Microsoft en 2018 y combina:
 height="600"/>
 </p>
 
-[4.Repositorio: GitHub](github.md)
+[5. Conceptos básicos Git/GitHub](conceptos.md)
